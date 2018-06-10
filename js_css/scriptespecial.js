@@ -1,1 +1,1 @@
-/*aquí va los scripts*/
+/*aqui van los scripts*/
